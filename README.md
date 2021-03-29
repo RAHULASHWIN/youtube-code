@@ -1,7 +1,8 @@
 # youtube-code
 This is a single user based application where the user can watch youtube videos and in side ways gets hands on expirence with code.<br/>
 
-![image](https://user-images.githubusercontent.com/64297786/112883234-a1ba7d80-90eb-11eb-8337-177358ffe984.png)
+![image](https://user-images.githubusercontent.com/64297786/112883373-d62e3980-90eb-11eb-8d82-f058ad2d81d5.png)
+
 
 
 <h3> Description </h3>
@@ -15,3 +16,11 @@ This is a single user based application where the user can watch youtube videos 
   
   <p>The user need not switch between the tabs to type the code. </p>
 
+# User Guide
+
+<h4>First of all many a times u make have expirenced that many error occurs while learning from youtube as you may have to switch between tabs </h4><br />
+
+<h5>This <b>Youtube-Code </b>helps the user to avoid those errors </h5><br />
+<h5> First there will a bunch of videos in the given website </h5><br />
+<h5> Then the user will watch the youtube videos and then work out directly in th eeditor which is been provided </h5><br />
+<h5> Now the user the run the code which he wants and simultaneously watch the videos </h5>
