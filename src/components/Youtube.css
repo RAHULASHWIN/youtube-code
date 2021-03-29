@@ -1,0 +1,23 @@
+.yab{
+    color:red;
+    height: 50px;
+    background-color: black;
+}
+
+.haha{
+    text-align: center;
+}
+
+.poda{
+    color: #0D0D0D;
+    background-color: #7FFF00;
+    border: 2px solid #fff;
+    border-radius: 15px;
+    display: block;
+    font-weight: bold;
+}
+
+.yow{
+    border-radius: 0px;
+    border: 2px solid #fff;
+}
